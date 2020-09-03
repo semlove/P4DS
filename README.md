@@ -3,7 +3,7 @@
 
 'Python을 이용한 데이터분석과 시각화'의 데이터와 소스코드입니다. 독자분들께서는 책에 있는 해당 데이터와 Jupyter파일을 확인하실 수 있습니다.
 
-<img src=https://user-images.githubusercontent.com/16858965/92069622-bef0cd00-ede4-11ea-8f0b-cafc4e23cf60.PNG>
+
 [데이터 구성]
 
 데이터 파일과 Python으로 구성되어 있습니다. 독자분들은 간단하고 쉽게 실행결과를 확인을 Jupyter Notebook에서 확인할 수 있게 만들어졌습니다.
