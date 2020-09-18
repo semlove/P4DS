@@ -2,6 +2,7 @@
 
 'Python을 이용한 데이터분석과 시각화'의 데이터와 소스코드입니다. 독자분들께서는 책에 있는 해당 데이터와 Jupyter파일을 확인하실 수 있습니다.
 
+<img src=https://user-images.githubusercontent.com/16858965/93592367-04201c00-f9ed-11ea-851f-48176c80a6a0.JPG>
 
 #  [데이터 구성]
 
