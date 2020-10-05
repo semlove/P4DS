@@ -31,7 +31,7 @@
 
 # [도서 구입 안내]
 
-* [한나래출판사](http://www.hannarae.net/)
+* [한나래출판사](https://www.hannarae.net/books/new.php/img/new.php?ptype=view&prdcode=2010050001)
 * 예스24
 * 교보문고
 * 반디앤루니스
