@@ -32,7 +32,7 @@
 # [도서 구입 안내]
 
 * [한나래출판사](https://www.hannarae.net/books/new.php/img/new.php?ptype=view&prdcode=2010050001)
-* 예스24(http://www.yes24.com/Product/Goods/93520247)
+* [예스24](http://www.yes24.com/Product/Goods/93520247)
 * 교보문고
 * 반디앤루니스
 * 알라딘
